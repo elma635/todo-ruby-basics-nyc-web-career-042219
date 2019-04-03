@@ -6,8 +6,9 @@ def assign_variable(value)
 
 end
 
-def argue
-
+def argue(with="Jane")
+puts "#{with}"
+with
 end
 
 def greeting
