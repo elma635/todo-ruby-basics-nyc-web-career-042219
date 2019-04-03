@@ -1,8 +1,6 @@
 def division(num1, num2)
   puts "(36/6)"
   (division(num1,num2)).to eq(6)"
-
-
 end
 
 def assign_variable(value)
