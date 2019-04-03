@@ -11,8 +11,8 @@ puts "I am right and you are #{with}"
 with
 end
 
-def greeting
-
+def greeting(name= "Elma", language ="Ruby")
+puts "Hey #{name}, heard you programmed in #{language}"
 end
 
 def return_a_value
