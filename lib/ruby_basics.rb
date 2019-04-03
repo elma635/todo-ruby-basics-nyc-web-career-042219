@@ -1,4 +1,5 @@
 def division(num1, num2)
+  puts "(division(num1,num2)).to eq(6)"
 
 
 end
