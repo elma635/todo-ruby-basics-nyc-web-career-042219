@@ -23,8 +23,8 @@ def return_a_value
 end
 
 def last_evaluated_value(level="expert")
-  puts "#{expert}"
-  expert
+  puts "#{level}"
+  level
 end
 
 def pizza_party(default="cheese")
