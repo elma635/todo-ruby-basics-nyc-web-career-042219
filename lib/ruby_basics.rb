@@ -6,8 +6,8 @@ def assign_variable(value)
 
 end
 
-def argue(with="Jane")
-puts "#{with}"
+def argue(with="wrong!")
+puts "I am right and you are #{with}"
 with
 end
 
