@@ -1,4 +1,5 @@
 def division(num1, num2)
+  
  
 end
 
@@ -22,6 +23,7 @@ def last_evaluated_value
 
 end
 
-def pizza_party
-
+def pizza_party(default="cheese")
+  puts "#{default}"
+  default
 end
