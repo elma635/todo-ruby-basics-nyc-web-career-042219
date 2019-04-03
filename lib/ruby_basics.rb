@@ -14,7 +14,7 @@ puts "I am right and you are #{with}"
 with
 end
 
-def greeting(name="Elma", language ="Ruby")
+def greeting(name, language)
 puts "Hey #{name}, heard you programmed in #{language}"
 end
 
