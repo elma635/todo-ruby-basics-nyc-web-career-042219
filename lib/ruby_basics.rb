@@ -3,7 +3,7 @@ def division(num1, num2)
 end
 
 def assign_variable(name)
-  "Hello #{name}"
+  puts "Hello #{name}"
 end
 
 def argue(with="wrong!")
