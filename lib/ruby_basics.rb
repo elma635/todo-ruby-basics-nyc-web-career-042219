@@ -19,7 +19,7 @@ puts "Hey #{name}, heard you programmed in #{language}"
 end
 
 def return_a_value(behaivor="Nice")
-  puts "#{behavior}"
+  puts "#{behaivor}"
   behaivor
 end
 
