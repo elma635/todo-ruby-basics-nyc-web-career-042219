@@ -6,6 +6,9 @@ def assign_variable(name)
   puts "Hello #{name}"
 end
 
+assign_variable("Elma")
+
+
 def argue(with="wrong!")
 puts "I am right and you are #{with}"
 with
